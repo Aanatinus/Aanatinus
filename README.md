@@ -1,4 +1,4 @@
-## Hi 👋 <br/> Have you ever seen a Platypus Coding?
+## Hi 👋
 
 <!--
 **Aanatinus/Aanatinus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
